@@ -1,2 +1,2 @@
 # Chatbot
-Creating chat bot using HTML, CSS AND JavaScript
+Creating chatbot using HTML, CSS AND JavaScript
